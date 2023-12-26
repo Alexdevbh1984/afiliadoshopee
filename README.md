@@ -1,4 +1,4 @@
-# Projeto Afiliados Hopee
+# Projeto Afiliados Shopee
 
 Este projeto é dedicado a criar um site para afiliados, utilizando tecnologias como CLI 6.12.3 e Node.js v14.15.3.
 
