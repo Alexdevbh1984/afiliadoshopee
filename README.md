@@ -4,8 +4,6 @@ Este projeto é dedicado a criar um site para afiliados, utilizando tecnologias 
 
 ## Pré-requisitos
 
-- CLI 6.12.3
-- Node.js v14.15.3
 
 ## Mockups
 
