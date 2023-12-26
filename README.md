@@ -1,5 +1,5 @@
 # Projeto Afiliados Shopee
-
+https://alexdevbh1984.github.io/afiliadoshopee/#accessory
 Este projeto é dedicado a criar um site para afiliados, utilizando tecnologias como CLI 6.12.3 e Node.js v14.15.3.
 
 ## Pré-requisitos
